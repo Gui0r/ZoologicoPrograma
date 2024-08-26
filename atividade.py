@@ -153,5 +153,6 @@ zoologico.append(Reptil("Cobra", 2, "Sibilo", "Rastejando", "Carnívoro", "Flore
 zoologico.append(Mamifero("Elefante", 10, "Trumpete", "em 4 patas", "Herbívoro", "Savanas", ["Leão"], "13:00"))
 zoologico.append(Ave("Coruja", 4, "Assobio", "Voando", "Carnívoro", "Florestas", ["Águia"], "09:00"))
 zoologico.append(Reptil("Tartaruga", 100, "Silêncio", "Caminhando", "Herbívoro", "Praias", ["Cobra"], "11:00"))
+zoologico.append(Reptil("Trionyx", 8, "Rugido", "Teletransportar", "Pesadelos", "Rio dos sinos", ["lindomar"], "13:00")
 
 menu()
