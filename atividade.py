@@ -155,4 +155,5 @@ zoologico.append(Ave("Coruja", 4, "Assobio", "Voando", "Carnívoro", "Florestas"
 zoologico.append(Reptil("Tartaruga", 100, "Silêncio", "Caminhando", "Herbívoro", "Praias", ["Cobra"], "11:00"))
 zoologico.append(Reptil("Trionyx", 8, "Rugido", "Teletransportar", "Pesadelos", "Rio dos sinos", ["lindomar"], "13:00")
 
-menu()
+if __name__ == menu():
+    menu()
